@@ -1,9 +1,6 @@
 # MTM6201 Midterm - Shopping Website Prototypes
 Prototype Designs for a Shopping Website - Midterm Resources for Students without Design Foundations I designs
 
-## URL
-[Figma Link](https://www.figma.com/file/PgaBgjCEluiCazGPx2al5Q/Burger/duplicate?node-id=0%3A1)
-
 ## Author
 **Name:** Rian Hamidjoyo  
 **Attribution Link:**(https://dribbble.com/shots/6451926-FREEBIE-PSD-online-shopping-mobile-app-design)  
